@@ -1,0 +1,42 @@
+div{
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border: 5px dotted burlywood;
+
+}
+p{
+text-align: justify;
+background-color: cornsilk;
+margin: 3mm ;
+padding: 2mm 6mm 2mm 6mm;
+
+}
+
+#bal{
+    width: 70%;
+}
+
+#jobb{
+   
+    width: 80%;
+    margin:auto;
+}
+
+.piros{
+   border-right: double 3mm darkred;
+}
+.kék{
+    border-left: dashed 1mm blueviolet;
+    border-bottom: dashed 2mm blue;
+}
+
+
+#blue{
+    font-family: Cambria;
+    color: dodgerblue;
+}
+
+#piri{
+    font-variant: small-caps;
+    color:crimson;
+}
